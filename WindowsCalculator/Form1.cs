@@ -70,6 +70,7 @@ namespace WindowsCalculator
             operationPressed = false;
             operationEnd = false;
             percentagePressed = false;
+            history.Text = "";
         }
 
         private void delete_Click(object sender, EventArgs e)
