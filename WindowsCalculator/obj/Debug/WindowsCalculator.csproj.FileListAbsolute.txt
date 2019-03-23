@@ -1,0 +1,10 @@
+C:\Users\lwx94\Desktop\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe.config
+C:\Users\lwx94\Desktop\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe
+C:\Users\lwx94\Desktop\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.pdb
+C:\Users\lwx94\Desktop\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+C:\Users\lwx94\Desktop\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Properties.Resources.resources
+C:\Users\lwx94\Desktop\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+C:\Users\lwx94\Desktop\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lwx94\Desktop\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.exe
+C:\Users\lwx94\Desktop\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.pdb
+C:\Users\lwx94\Desktop\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Form1.resources
